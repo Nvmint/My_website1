@@ -1,6 +1,6 @@
 
 export const Footer = () => {
     return (
-        <div>Footer</div>
+        <div className="h-14 bg-gradient-to-r from-cream to-orange"></div>
     )
 }
