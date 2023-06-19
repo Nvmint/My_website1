@@ -1,7 +1,9 @@
 
 export const Hero = () => {
     return (
-        <div>Hero</div>
+        <div className="bg-cream">
+            <button className="bg-sky-500">hi</button>
+        </div>
     )
 }
 
